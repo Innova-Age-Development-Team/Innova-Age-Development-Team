@@ -1,5 +1,5 @@
 # Innova-Age-Development-Team
-* 【基本介绍】  
+## 【基本介绍】  
 
 创想时代开发组，英译为Innova Age Development Team，是一家基于Minecraft基岩版的资源创作团队。  
 
